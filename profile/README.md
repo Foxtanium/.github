@@ -1,5 +1,7 @@
-## Hi there 👋
+### Gutem Tag! 👋
 
+
+2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
 <!--
 
 **Here are some ideas to get you started:**
