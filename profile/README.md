@@ -1,9 +1,9 @@
 ### Gutem Tag! 👋
 
 
-2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
-All Documentation can be found here! [LINK](https://wiki.2f1p.com)
-LINKS:
+<p>2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.<p>
+<p>All Documentation can be found here! [LINK](https://wiki.2f1p.com)<p>
+<p>LINKS:<p>
 - [Forum](https://forum.2f1p.com)
 - [Search Engine](https://search.2f1p.com)
 - [Games](https://games.2f1p.com)
@@ -18,3 +18,4 @@ LINKS:
 🍿 Fun facts - what does your team eat for breakfast?
 🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
 -->
+f
