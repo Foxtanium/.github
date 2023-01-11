@@ -1,8 +1,8 @@
 ### Gutem Tag! 👋
 
 
-<p>2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.</p>
-<p>All Documentation can be found here! [LINK](https://wiki.2f1p.com)</p>
+2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
+All Documentation can be found here! [LINK](https://wiki.2f1p.com)
 LINKS:
 - [Forum](https://forum.2f1p.com)
 - [Search Engine](https://search.2f1p.com)
