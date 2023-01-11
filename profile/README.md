@@ -3,6 +3,11 @@
 
 2F1P is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
 All Documentation can be found here! [LINK](https://wiki.2f1p.com)
+LINKS:
+- [Forum](https://forum.2f1p.com)
+- [Search Engine](https://search.2f1p.com)
+- [Games](https://games.2f1p.com)
+- [Video Platform](https://foxtube.2f1p.com)
 <!--
 
 **Here are some ideas to get you started:**
