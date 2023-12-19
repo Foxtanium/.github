@@ -1,5 +1,6 @@
-### Gutem Tag! 👋
+# Gutem Tag! 👋
 
+### Foxtanium IS CURRENTLY INACTIVE!
 
 Foxtanium is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
 
