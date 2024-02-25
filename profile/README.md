@@ -9,6 +9,7 @@ LINKS:
 - [Search Engine](https://search.foxtanium.com)
 - [Games](https://games.foxtanium.com)
 - [Video Platform](https://v.fjox.win)
+- [File Upload Platform](https://share.hostnetwork.xyz)
 <!--
 
 **Here are some ideas to get you started:**
