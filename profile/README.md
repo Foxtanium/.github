@@ -3,7 +3,7 @@
 Foxtanium is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
 
 LINKS:
-- [Wiki](https://wiki.foxtanium.com)
+- [Wiki](https://wiki.fjox.win/Foxtanium:Main_Page)
 - [Forum](https://forum.foxtanium.com)
 - [Imageboard](https://imageboard.foxtanium.com)
 - [Search Engine](https://search.foxtanium.com)
