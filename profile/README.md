@@ -10,9 +10,6 @@ LINKS:
 - [Games](https://games.foxtanium.com)
 - [Video Platform](https://v.fjox.win)
 - [File Upload Platform](https://share.hostnetwork.xyz)
-
-### Statistiken
-![FuchsFuchs1's GitHub stats](https://github-readme-stats.vercel.app/api?username=Foxtanium&show_icons=true&theme=dark)
 <!--
 
 **Here are some ideas to get you started:**
