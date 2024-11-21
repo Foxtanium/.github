@@ -1,6 +1,6 @@
 # Gutem Tag! 👋
 
-Foxtanium is a Development Group making Servers, Plugins, Mods and Cheasts for the popular video game Minecraft and some other non video game stuff.
+Foxtanium is a Development Group mostly focused on improving and customizing exsisting software.
 
 LINKS:
 - [Wiki](https://wiki.fjox.win/Foxtanium:Main_Page)(Broken)
