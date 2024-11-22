@@ -10,7 +10,7 @@ LINKS:
 - [Games](https://games.foxtanium.com)(Broken)
 - [Video Platform](https://v.fjox.win)(Broken)
 - [File Upload Platform](https://share.hostnetwork.xyz)(Broken)
-- [Live Chat/Message Platforms](https://chat.hostnetwork.xyz)(Matrix, XMPP, Movim)
+- [Live Chat/Message Platforms](https://chat.hostnetwork.xyz)(Matrix, XMPP, Movim, Mastodon)
 <!--
 
 **Here are some ideas to get you started:**
