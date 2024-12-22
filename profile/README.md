@@ -3,6 +3,7 @@
 Foxtanium is a Development Group mostly focused on improving and customizing exsisting software.
 
 LINKS:
+- [Mastodon](https://mastodon.hostnetwork.xyz)(Public)
 - [Wiki](https://wiki.fjox.win/Foxtanium:Main_Page)(Broken)
 - [Forum](https://forum.foxtanium.com)(Broken)
 - [Imageboard](https://imageboard.foxtanium.com)
