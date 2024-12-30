@@ -3,15 +3,15 @@
 Foxtanium is a Development Group mostly focused on improving and customizing exsisting software.
 
 LINKS:
-- [Mastodon](https://mastodon.hostnetwork.xyz)(Public)
+- [Mastodon](https://mastodon.hostnetwork.xyz)(Public,Broken)
+- [Matrix](https://chat.hostnetwork.xyz)
 - [Wiki](https://wiki.fjox.win/Foxtanium:Main_Page)(Broken)
 - [Forum](https://forum.foxtanium.com)(Broken)
 - [Imageboard](https://imageboard.foxtanium.com)
 - [Search Engine](https://search.foxtanium.com)(Broken)
 - [Games](https://games.foxtanium.com)(Broken)
 - [Video Platform](https://v.fjox.win)(Broken)
-- [File Upload Platform](https://share.hostnetwork.xyz)(Broken)
-- [Live Chat/Message Platforms](https://chat.hostnetwork.xyz)(Matrix, XMPP, Movim, Mastodon)
+- [File Upload Platform](https://share.hostnetwork.xyz)(depricated)
 <!--
 
 **Here are some ideas to get you started:**
