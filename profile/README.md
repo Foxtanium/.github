@@ -4,7 +4,7 @@ Foxtanium is a Development Group mostly focused on improving and customizing exs
 
 LINKS:
 - [Mastodon](https://mastodon.hostnetwork.xyz)(Public)
-- [git](https://git.hostnetwork.xyz)
+- [git](https://git.hostnetwork.xyz)(Public)
 - [Matrix](https://chat.hostnetwork.xyz)(Shutdown)
 - [Wiki](https://wiki.fjox.win/Foxtanium:Main_Page)(Broken)
 - [Forum](https://forum.foxtanium.com)(Broken)
