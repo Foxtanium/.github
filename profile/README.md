@@ -10,7 +10,7 @@ LINKS:
 - [Forum](https://forum.foxtanium.com)(Broken)
 - [Imageboard](https://imageboard.foxtanium.com)
 - [Search Engine](https://search.foxtanium.com)(Broken)
-- [Games](https://games.foxtanium.com)(Broken)
+- [Games](https://games.foxtanium.com)
 - [Video Platform](https://v.fjox.win)(Broken)
 - [File Upload Platform](https://share.hostnetwork.xyz)(depricated)
 - [Temp File Share](https://send.hostnetwork.xyz)
